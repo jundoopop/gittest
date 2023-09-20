@@ -1,3 +1,8 @@
+---
+tags:
+  - ComputerVision
+---
+
 From an article [ALGORITHMS FOR THE REDUCTION OF THE NUMBER OF POINTS REQUIRED TO REPRESENT A DIGITIZED LINE OR ITS CARICATURE | Cartographica: The International Journal for Geographic Information and Geovisualization (utpjournals.press)](https://utpjournals.press/doi/epdf/10.3138/FM57-6770-U75U-7727?role=tab)
 
 
@@ -10,6 +15,11 @@ The document compares the proposed algorithms with other methods that have been 
 - elimination of points
 - approximation with mathematical functions
 - deletion of cartographic features. 
+
+###### Simplest Method?
+To delete all but every n th point along the line, where n is a fixed integer based upon the desired degree of reduction.
+1. Eliminates, misrepresents important features.
+2. Straight lines are over-represented.
 
 It evaluates the methods based on their cartographic usefulness, computing time, and ability to produce satisfactory abstractions. 
 The document presents the results of testing the algorithms on different data sets and shows that they are operationally suitable for **simple reduction and caricature production**. It also suggests that line reduction is an important part of automated generalisation and that further research is needed to improve the methods.
@@ -30,8 +40,16 @@ The document presents the results of testing the algorithms on different data se
 
 
 
+What point along the curved line should he selected to become the end point of the two new straight segments created?
 
-    
+#### To create new straight segment
+**Select the furthest point** from the straight segment
 
 
+
+#### Tolerance distance
+- If this distance is less than the maximum tolerance distance
+	- Straight segment is deemed to suitable to represent the whole line.
+- If same or longer
+	- Point lying furthest away becomes the new floating point.
 

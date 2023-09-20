@@ -8,12 +8,56 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0213835dc5044d31",
+            "id": "f2b7ddb7562f5bcb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RDP.md",
+                "file": "Ideal pinhole camera(Image systems).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6f9e9359fbbef870",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Imaging Systems.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2e46bec47e1f2dae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Images-Physical and Synthetic.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c2a2b4cc17c21d97",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "9bdc8d493b5b4a87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hough transforms.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,8 +74,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4e4c34d3528f8a39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hough transforms.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -81,7 +138,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 222.5
+    "width": 249.5
   },
   "right": {
     "id": "daa845a70a180af1",
@@ -97,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RDP.md",
+                "file": "Hough transforms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RDP.md",
+                "file": "Hough transforms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RDP.md"
+                "file": "Hough transforms.md"
               }
             }
           },
@@ -151,31 +208,42 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 285.5
+    "width": 207.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Ouvrir le sélecteur rapide": false,
-      "graph:Ouvrir la vue graphique": false,
-      "canvas:Créer une nouvelle toile": false,
-      "daily-notes:Ouvrir la note quotidienne": false,
-      "templates:Insérer le modèle": false,
-      "command-palette:Ouvrir la palette de commandes": false,
-      "markdown-importer:Ouvrir l'importateur Markdown": false,
-      "workspaces:Gérer les espaces de travail": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "4b9199daf7f7efa5",
+  "active": "4e4c34d3528f8a39",
   "lastOpenFiles": [
-    "Hough transforms.md",
-    "How to Use Obsidian.md",
-    "RDP.md",
+    "Terms for CG.md",
+    "Computer Graphics.md",
+    "Graphics Architectures.md",
+    "Ray Tracing.md",
+    "Raster-Scan Systems.md",
+    "Images-Physical and Synthetic.md",
+    "Ideal pinhole camera(Image systems).md",
+    "Img systems- the human visual system.md",
+    "Imaging Systems.md",
     "Line Simplification.md",
+    "Hough transforms.md",
+    "Computer Vision.md",
+    "RDP.md",
+    "Shadow-mask methods.md",
+    "How to Use Obsidian.md",
     "into extended lines.md",
     "Untitled.canvas"
   ]
