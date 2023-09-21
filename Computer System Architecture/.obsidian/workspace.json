@@ -4,143 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "c4b6c98a331619a4",
+        "id": "26d7b5debb2632ee",
         "type": "tabs",
         "children": [
           {
-            "id": "c920086f3ff599de",
+            "id": "e804d9a59c98d3e7",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "9ae33875512a757e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chapter 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "79af1a9bfbcfaf4c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CPU.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "feef86ae14477fd2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CPU.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "23c4e66afed345f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CPU Time.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8d5c1e2dc3ad45fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Semiconductor Technology.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f56039ce57ff11da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chap 2/Language of the Computer.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b0e9948a190af968",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Images/Pasted image 20230921001522.png"
-              }
-            }
-          },
-          {
-            "id": "d0d34e3a0767401d",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Images/Pasted image 20230912225002.png"
-              }
-            }
-          },
-          {
-            "id": "bbe2449fca436150",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Images/Pasted image 20230912224627.png"
-              }
-            }
-          },
-          {
-            "id": "f4de50bd87dec5ed",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Images/Pasted image 20230912223800.png"
-              }
-            }
-          },
-          {
-            "id": "60df3b71fdbe8942",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chap 2/2.8/Using More Registers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 11
+        ]
       }
     ],
     "direction": "vertical"
@@ -190,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 230.5
   },
   "right": {
     "id": "6433f10313f1ba5a",
@@ -267,7 +142,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "716243bfbbacccdc",
+  "active": "e804d9a59c98d3e7",
   "lastOpenFiles": [
     "Chap 2/2.9",
     "Chap 2/2.8",
