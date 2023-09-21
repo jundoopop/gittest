@@ -74,9 +74,73 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f56039ce57ff11da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chap 2/Language of the Computer.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b0e9948a190af968",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/Pasted image 20230921001522.png"
+              }
+            }
+          },
+          {
+            "id": "d0d34e3a0767401d",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/Pasted image 20230912225002.png"
+              }
+            }
+          },
+          {
+            "id": "bbe2449fca436150",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/Pasted image 20230912224627.png"
+              }
+            }
+          },
+          {
+            "id": "f4de50bd87dec5ed",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/Pasted image 20230912223800.png"
+              }
+            }
+          },
+          {
+            "id": "60df3b71fdbe8942",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chap 2/2.8/Using More Registers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -142,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semiconductor Technology.md",
+                "file": "Chap 2/2.8/Using More Registers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Semiconductor Technology.md",
+                "file": "Chap 2/2.8/Using More Registers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semiconductor Technology.md"
+                "file": "Chap 2/2.8/Using More Registers.md"
               }
             }
           }
@@ -195,24 +259,48 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Ouvrir le sélecteur rapide": false,
-      "graph:Ouvrir la vue graphique": false,
-      "canvas:Créer une nouvelle toile": false,
-      "daily-notes:Ouvrir la note quotidienne": false,
-      "templates:Insérer le modèle": false,
-      "command-palette:Ouvrir la palette de commandes": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "8d5c1e2dc3ad45fc",
+  "active": "716243bfbbacccdc",
   "lastOpenFiles": [
+    "Chap 2/2.9",
+    "Chap 2/2.8",
+    "Chap 2/2.3",
+    "Chap 2/2.6",
+    "Chap 2/2.1",
+    "Chap 2/Making Decisions.md",
+    "Chap 2/2.8/Using More Registers.md",
+    "Chap 2/Logical Operations.md",
+    "Chap 2/Language of the Computer.md",
+    "Chap 2/Translating MIPS Assembly Language into Machine Language.md",
+    "Chap 2/Representing Instructions in the Computer.md",
+    "Chap 2/Signed and Unsigned Numbers.md",
+    "Images/Pasted image 20230921004259.png",
+    "Chap 2/Design Principle.md",
+    "Chap 2/Operands of the Computer Hardware.md",
+    "Chap 1/Five components of a computer.md",
+    "Chap 1",
+    "Chap 2/Memory Operands.md",
+    "Chap 2/MIPS Technologies.md",
+    "Chap 3/Hardware for Arithmetic.md",
+    "Images/Pasted image 20230912223411.png",
+    "Images/Pasted image 20230912223800.png",
+    "Images/Pasted image 20230912224627.png",
+    "Images/Pasted image 20230912225002.png",
+    "Images/Pasted image 20230921001522.png",
+    "Images",
+    "Chap 3",
+    "Chap 2",
+    "Semiconductor Technology.md",
     "CPU Clocking.md",
-    "Pasted image 20230912225002.png",
     "CPU Time.md",
     "CPU.md",
-    "Semiconductor Technology.md",
-    "Chapter 1.md",
-    "Pasted image 20230912224627.png",
-    "Pasted image 20230912223800.png",
-    "Pasted image 20230912223411.png"
+    "Chapter 1.md"
   ]
 }

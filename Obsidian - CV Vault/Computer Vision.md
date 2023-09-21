@@ -6,3 +6,4 @@ tags:
 [[Hough transforms]]
 [[Line Simplification]]
 [[RDP]]
+[[Detection]]
