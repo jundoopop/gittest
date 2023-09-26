@@ -1,0 +1,163 @@
+{
+  "main": {
+    "id": "cbc6670563ac94b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "029199e82935fd77",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "701857a025f740b2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "7302e8f71031a712",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Objects/Prototype.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "27ed951b7679cba7",
+    "type": "split",
+    "children": [
+      {
+        "id": "f18d3b4616f8d6a5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "57ae6020cf77eb96",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1b199bc2d401b7fa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2a8de14be16e3a1e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "860f54eea68c3dfb",
+    "type": "split",
+    "children": [
+      {
+        "id": "15e7d7a265a4309a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "29a02ea29922dadc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Objects/Prototype.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c4541b2eefa29086",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Objects/Prototype.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "18bd5f4b6384e359",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "561a4e7a4f1dae49",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Objects/Prototype.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "7302e8f71031a712",
+  "lastOpenFiles": [
+    "Objects",
+    "Objects/Prototype.md"
+  ]
+}
