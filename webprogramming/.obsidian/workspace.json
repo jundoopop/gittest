@@ -20,6 +20,28 @@
             }
           },
           {
+            "id": "ddc00069af97ca72",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.14"
+              }
+            }
+          },
+          {
+            "id": "6ef6d211b65ed13b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HTML Tags.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "39fdfb72f2f111f6",
             "type": "leaf",
             "state": {
@@ -31,7 +53,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML.md",
+                "file": "HTML Tags.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTML.md",
+                "file": "HTML Tags.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTML.md"
+                "file": "HTML Tags.md"
               }
             }
           }
@@ -158,10 +181,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6bd82afaa1ea7a55",
+  "active": "6ef6d211b65ed13b",
   "lastOpenFiles": [
-    "Canvas.md",
     "HTML.md",
+    "HTML Tags.md",
+    "Canvas.md",
     "Untitled",
     "Web Form.md",
     "Single Thread.md",
