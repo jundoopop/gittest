@@ -35,7 +35,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTML Tags.md",
+                "file": "Lab1 Review/Session E4.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b64e91c8800eb553",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lecture/Week5.md",
                 "mode": "source",
                 "source": false
               }
@@ -54,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -120,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML Tags.md",
+                "file": "Lecture/Week5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTML Tags.md",
+                "file": "Lecture/Week5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTML Tags.md"
+                "file": "Lecture/Week5.md"
               }
             }
           }
@@ -168,8 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,12 +192,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6ef6d211b65ed13b",
+  "active": "b64e91c8800eb553",
   "lastOpenFiles": [
-    "HTML.md",
+    "Lab1 Review/Session E4.md",
+    "Lecture/Week5.md",
+    "Lecture",
+    "Lab1 Review/Session E3.md",
+    "Lab1 Review/Session E2.md",
+    "Lab1 Review/Session E1.md",
+    "Lab1 Review/Session D.md",
+    "Lab1 Review/Session C.md",
+    "Lab1 Review/Session B.md",
     "HTML Tags.md",
+    "Lab1 Review",
+    "HTML.md",
     "Canvas.md",
-    "Untitled",
     "Web Form.md",
     "Single Thread.md",
     "Web Socket.md"
