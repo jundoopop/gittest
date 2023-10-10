@@ -1,35 +1,48 @@
 {
   "main": {
-    "id": "58d1718974784a5b",
+    "id": "cbc6670563ac94b2",
     "type": "split",
     "children": [
       {
-        "id": "26d7b5debb2632ee",
+        "id": "029199e82935fd77",
         "type": "tabs",
         "children": [
           {
-            "id": "e804d9a59c98d3e7",
+            "id": "701857a025f740b2",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "7302e8f71031a712",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Objects/Prototype.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "897e832f716c9948",
+    "id": "27ed951b7679cba7",
     "type": "split",
     "children": [
       {
-        "id": "8a95ac473892dfe3",
+        "id": "f18d3b4616f8d6a5",
         "type": "tabs",
         "children": [
           {
-            "id": "716243bfbbacccdc",
+            "id": "57ae6020cf77eb96",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,7 +52,7 @@
             }
           },
           {
-            "id": "7b1df53fdc66966c",
+            "id": "1b199bc2d401b7fa",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -54,7 +67,7 @@
             }
           },
           {
-            "id": "54b20c5cb823ca82",
+            "id": "2a8de14be16e3a1e",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -65,23 +78,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 230.5
+    "width": 300
   },
   "right": {
-    "id": "6433f10313f1ba5a",
+    "id": "860f54eea68c3dfb",
     "type": "split",
     "children": [
       {
-        "id": "1602f058f4adf15f",
+        "id": "15e7d7a265a4309a",
         "type": "tabs",
         "children": [
           {
-            "id": "e3c1ae2893257c9d",
+            "id": "29a02ea29922dadc",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chap 2/2.8/Using More Registers.md",
+                "file": "Objects/Prototype.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,19 +106,19 @@
             }
           },
           {
-            "id": "2a98526ec27479be",
+            "id": "c4541b2eefa29086",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chap 2/2.8/Using More Registers.md",
+                "file": "Objects/Prototype.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "2a42ae5c8ddfa070",
+            "id": "18bd5f4b6384e359",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -116,12 +129,12 @@
             }
           },
           {
-            "id": "59b332f9dfbe62c1",
+            "id": "561a4e7a4f1dae49",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chap 2/2.8/Using More Registers.md"
+                "file": "Objects/Prototype.md"
               }
             }
           }
@@ -142,40 +155,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e804d9a59c98d3e7",
+  "active": "7302e8f71031a712",
   "lastOpenFiles": [
-    "Chap 2/2.9",
-    "Chap 2/2.8",
-    "Chap 2/2.3",
-    "Chap 2/2.6",
-    "Chap 2/2.1",
-    "Chap 2/Making Decisions.md",
-    "Chap 2/2.8/Using More Registers.md",
-    "Chap 2/Logical Operations.md",
-    "Chap 2/Language of the Computer.md",
-    "Chap 2/Translating MIPS Assembly Language into Machine Language.md",
-    "Chap 2/Representing Instructions in the Computer.md",
-    "Chap 2/Signed and Unsigned Numbers.md",
-    "Images/Pasted image 20230921004259.png",
-    "Chap 2/Design Principle.md",
-    "Chap 2/Operands of the Computer Hardware.md",
-    "Chap 1/Five components of a computer.md",
-    "Chap 1",
-    "Chap 2/Memory Operands.md",
-    "Chap 2/MIPS Technologies.md",
-    "Chap 3/Hardware for Arithmetic.md",
-    "Images/Pasted image 20230912223411.png",
-    "Images/Pasted image 20230912223800.png",
-    "Images/Pasted image 20230912224627.png",
-    "Images/Pasted image 20230912225002.png",
-    "Images/Pasted image 20230921001522.png",
-    "Images",
-    "Chap 3",
-    "Chap 2",
-    "Semiconductor Technology.md",
-    "CPU Clocking.md",
-    "CPU Time.md",
-    "CPU.md",
-    "Chapter 1.md"
+    "Objects",
+    "Objects/Prototype.md"
   ]
 }
