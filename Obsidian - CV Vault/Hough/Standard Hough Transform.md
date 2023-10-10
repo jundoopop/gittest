@@ -1,0 +1,13 @@
+The **Hough Transform** is a technique used in computer vision and image processing to detect shapes, such as lines, circles, and ellipses, in an image. [The Hough Transform can be used to detect lines using two different algorithms: the **Standard Hough Transform** and the **Probabilistic Hough Transform**](https://docs.opencv.org/3.4/d9/db0/tutorial_hough_lines.html)[1](https://docs.opencv.org/3.4/d9/db0/tutorial_hough_lines.html).
+
+The **Standard Hough Transform** is a simple algorithm that works by transforming the image space into a parameter space, [where each point in the image space corresponds to a curve in the parameter space](https://docs.opencv.org/3.4/d9/db0/tutorial_hough_lines.html)[1](https://docs.opencv.org/3.4/d9/db0/tutorial_hough_lines.html). [The algorithm then counts the number of intersections between curves in the parameter space to detect lines](https://docs.opencv.org/3.4/d9/db0/tutorial_hough_lines.html)[1](https://docs.opencv.org/3.4/d9/db0/tutorial_hough_lines.html). [The output of the Standard Hough Transform is a vector of couples (θ, rθ), where θ is the angle between the line and the x-axis, and rθ is the distance from the origin to the line in polar coordinates](https://docs.opencv.org/3.4/d9/db0/tutorial_hough_lines.html)[1](https://docs.opencv.org/3.4/d9/db0/tutorial_hough_lines.html).
+
+
+The **[[Probabilistic Hough Transform]]** is a more efficient algorithm that works by randomly selecting a subset of points from the image space and performing the Standard Hough Transform on [these points](https://docs.opencv.org/3.4/d9/db0/tutorial_hough_lines.html)[1](https://docs.opencv.org/3.4/d9/db0/tutorial_hough_lines.html). [The algorithm then iteratively selects additional points from the image space that are consistent with the detected lines until the desired accuracy is achieved](https://docs.opencv.org/3.4/d9/db0/tutorial_hough_lines.html)[1](https://docs.opencv.org/3.4/d9/db0/tutorial_hough_lines.html). [The output of the Probabilistic Hough Transform is the extremes of the detected lines (x0, y0, x1, y1)](https://docs.opencv.org/3.4/d9/db0/tutorial_hough_lines.html)[1](https://docs.opencv.org/3.4/d9/db0/tutorial_hough_lines.html).
+
+To summarize, the main difference between the Standard Hough Transform and the Probabilistic Hough Transform is that the latter is more efficient and can detect lines with less computational complexity. The Standard Hough Transform outputs a vector of couples (θ, rθ), while the Probabilistic Hough Transform outputs the extremes of the detected lines (x0, y0, x1, y1).
+
+Let me know if you have any further questions!
+
+
+

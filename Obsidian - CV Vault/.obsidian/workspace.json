@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hough transforms.md",
+                "file": "Hough/Hough transforms.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,14 +81,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hough transforms.md",
+                "file": "Computer Graphics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c142dcf186282544",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Graphics/Three Dimensional Viewing.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -138,7 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249.5
+    "width": 319.5
   },
   "right": {
     "id": "daa845a70a180af1",
@@ -154,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hough transforms.md",
+                "file": "Computer Graphics/Three Dimensional Viewing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hough transforms.md",
+                "file": "Computer Graphics/Three Dimensional Viewing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hough transforms.md"
+                "file": "Computer Graphics/Three Dimensional Viewing.md"
               }
             }
           },
@@ -208,12 +220,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 207.5,
-    "collapsed": true
+    "width": 207.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -227,16 +239,29 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "4e4c34d3528f8a39",
+  "active": "c142dcf186282544",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Computer Graphics/Three Dimensional Viewing.md",
+    "Computer Graphics.md",
+    "Computer Graphics",
+    "Hough/Probabilistic Hough Transform.md",
+    "Hough/Standard Hough Transform.md",
+    "Hough/Use of the Hough  Transformation To  Detect Lines and  Curves in Pictures.md",
+    "[Probabilistic.md",
+    "How to Use Obsidian.md",
+    "Hough/Hough transforms.md",
+    "Hough/Randomized Hough Transform.md",
+    "Hough/Untitled.md",
+    "Hough/1992 Hough.md",
+    "Hough",
+    "Graphics Architectures.md",
+    "Computer Vision.md",
+    "rho.md",
     "Detection/Detection.md",
     "canny.htm.md",
-    "Hough transforms.md",
-    "Computer Vision.md",
     "Detection",
     "Terms for CG.md",
-    "Computer Graphics.md",
-    "Graphics Architectures.md",
     "Ray Tracing.md",
     "Raster-Scan Systems.md",
     "Images-Physical and Synthetic.md",
@@ -245,9 +270,6 @@
     "Imaging Systems.md",
     "Line Simplification.md",
     "RDP.md",
-    "Shadow-mask methods.md",
-    "How to Use Obsidian.md",
-    "into extended lines.md",
     "Untitled.canvas"
   ]
 }
