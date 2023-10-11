@@ -47,7 +47,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture/Week5.md",
+                "file": "Lab2 Review/lab2 d.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3419eaaab501e275",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lab2 Review/lab2 c.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "de1e7f2ef790b297",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lecture/Week 6.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -132,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture/Week5.md",
+                "file": "Lecture/Week 6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture/Week5.md",
+                "file": "Lecture/Week 6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture/Week5.md"
+                "file": "Lecture/Week 6.md"
               }
             }
           }
@@ -180,7 +204,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,10 +217,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b64e91c8800eb553",
+  "active": "de1e7f2ef790b297",
   "lastOpenFiles": [
-    "Lab1 Review/Session E4.md",
+    "Lab2 Review/lab2 c.md",
+    "Lecture/Week 6.md",
+    "Lab2 Review/lab2 a.md",
+    "Lab2 Review/Overview.md",
+    "Lab2 Review/lab2 b.md",
+    "Lab2 Review/lab2 d.md",
     "Lecture/Week5.md",
+    "Lab2 Review",
+    "Lab1 Review/Session E4.md",
     "Lecture",
     "Lab1 Review/Session E3.md",
     "Lab1 Review/Session E2.md",
