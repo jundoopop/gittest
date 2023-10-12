@@ -8,80 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f2b7ddb7562f5bcb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ideal pinhole camera(Image systems).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6f9e9359fbbef870",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Imaging Systems.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2e46bec47e1f2dae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Images-Physical and Synthetic.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c2a2b4cc17c21d97",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "9bdc8d493b5b4a87",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hough/Hough transforms.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f0ffa5a1812807f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "How to Use Obsidian.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "4e4c34d3528f8a39",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Graphics.md",
+                "file": "Computer Graphics/Polygon Fill Areas.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Graphics/Three Dimensional Viewing.md",
+                "file": "Computer Graphics/Plane Equations.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -150,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 319.5
+    "width": 200
   },
   "right": {
     "id": "daa845a70a180af1",
@@ -166,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Graphics/Three Dimensional Viewing.md",
+                "file": "Computer Graphics/Polygon Fill Areas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Graphics/Three Dimensional Viewing.md",
+                "file": "Computer Graphics/Polygon Fill Areas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Graphics/Three Dimensional Viewing.md"
+                "file": "Computer Graphics/Polygon Fill Areas.md"
               }
             }
           },
@@ -221,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -239,10 +170,19 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "c142dcf186282544",
+  "active": "4e4c34d3528f8a39",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Computer Graphics/Plane Equations.md",
+    "Computer Graphics/Polygon Fill Areas.md",
+    "Computer Graphics/Image Sources",
+    "Computer Graphics/Image Sources/Concave Identification.png",
+    "Computer Graphics/Object Geometry.md",
+    "Computer Graphics/Pixel Addressing.md",
+    "Computer Graphics/Rasterisation/Rasterisation Overview.md",
+    "Computer Graphics/Frustum.md",
+    "Computer Graphics/Rasterisation",
     "Computer Graphics/Three Dimensional Viewing.md",
+    "Untitled.md",
     "Computer Graphics.md",
     "Computer Graphics",
     "Hough/Probabilistic Hough Transform.md",
@@ -264,12 +204,6 @@
     "Terms for CG.md",
     "Ray Tracing.md",
     "Raster-Scan Systems.md",
-    "Images-Physical and Synthetic.md",
-    "Ideal pinhole camera(Image systems).md",
-    "Img systems- the human visual system.md",
-    "Imaging Systems.md",
-    "Line Simplification.md",
-    "RDP.md",
     "Untitled.canvas"
   ]
 }
