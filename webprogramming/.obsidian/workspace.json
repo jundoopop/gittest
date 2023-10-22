@@ -8,70 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6bd82afaa1ea7a55",
+            "id": "1d6667a8862737a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTML.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ddc00069af97ca72",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.14"
-              }
-            }
-          },
-          {
-            "id": "6ef6d211b65ed13b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lab1 Review/Session E4.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b64e91c8800eb553",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lab2 Review/lab2 d.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3419eaaab501e275",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lab2 Review/lab2 c.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "de1e7f2ef790b297",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lecture/Week 6.md",
+                "file": "Lecture/Week 7.md",
                 "mode": "source",
                 "source": false
               }
@@ -89,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -156,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture/Week 6.md",
+                "file": "Lecture/Week 7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture/Week 6.md",
+                "file": "Lecture/Week 7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture/Week 6.md"
+                "file": "Lecture/Week 7.md"
               }
             }
           }
@@ -217,15 +158,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "de1e7f2ef790b297",
+  "active": "1d6667a8862737a4",
   "lastOpenFiles": [
-    "Lab2 Review/lab2 c.md",
+    "Lecture/Week 5.md",
+    "중간고사 공지.md",
+    "Lecture/Week5 1.md",
+    "Lab3 Review/lab3 c.md",
+    "Lab3 Review/lab3 b.md",
+    "Lab3 Review/lab3 a.md",
+    "Lecture/Week 7.md",
     "Lecture/Week 6.md",
+    "Lab3 Review",
+    "Lab2 Review/lab2 c.md",
     "Lab2 Review/lab2 a.md",
     "Lab2 Review/Overview.md",
     "Lab2 Review/lab2 b.md",
     "Lab2 Review/lab2 d.md",
-    "Lecture/Week5.md",
     "Lab2 Review",
     "Lab1 Review/Session E4.md",
     "Lecture",
