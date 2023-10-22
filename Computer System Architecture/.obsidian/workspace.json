@@ -14,8 +14,21 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "b92e24014fb7ffad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MIPS Assembly Syntax.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chap 2/2.8/Using More Registers.md",
+                "file": "MIPS Assembly Syntax.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chap 2/2.8/Using More Registers.md",
+                "file": "MIPS Assembly Syntax.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chap 2/2.8/Using More Registers.md"
+                "file": "MIPS Assembly Syntax.md"
               }
             }
           }
@@ -142,8 +155,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e804d9a59c98d3e7",
+  "active": "b92e24014fb7ffad",
   "lastOpenFiles": [
+    "MIPS Assembly Syntax.md",
     "Chap 2/2.9",
     "Chap 2/2.8",
     "Chap 2/2.3",

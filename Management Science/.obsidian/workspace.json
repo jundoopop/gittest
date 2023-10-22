@@ -16,6 +16,18 @@
             }
           },
           {
+            "id": "3048ea616461e118",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Homework 1st.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "02ce04775dfaf438",
             "type": "leaf",
             "state": {
@@ -40,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -107,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Modelling/Optimization.md",
+                "file": "Homework 1st.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Modelling/Optimization.md",
+                "file": "Homework 1st.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Modelling/Optimization.md"
+                "file": "Homework 1st.md"
               }
             }
           }
@@ -168,10 +180,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7c860e4c87dc79ee",
+  "active": "3048ea616461e118",
   "lastOpenFiles": [
-    "Modelling/Optimization Problems by 3 steps.md",
+    "Homework 1st.md",
     "Modelling/Optimization.md",
+    "Modelling/Optimization Problems by 3 steps.md",
     "Modelling"
   ]
 }
