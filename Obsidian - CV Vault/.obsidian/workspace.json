@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Graphics/Polygon Fill Areas.md",
+                "file": "Detection/Harris Corner Detector.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "82b7d4d4ce240780",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KNN.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Graphics/Polygon Fill Areas.md",
+                "file": "KNN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Graphics/Polygon Fill Areas.md",
+                "file": "KNN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Graphics/Polygon Fill Areas.md"
+                "file": "KNN.md"
               }
             }
           },
@@ -170,10 +183,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "4e4c34d3528f8a39",
+  "active": "82b7d4d4ce240780",
   "lastOpenFiles": [
-    "Computer Graphics/Plane Equations.md",
+    "Detection/Harris Corner Detector.md",
+    "KNN.md",
+    "Pasted image 20231031094257.png",
+    "Detection/Detection.md",
     "Computer Graphics/Polygon Fill Areas.md",
+    "Computer Graphics/Plane Equations.md",
     "Computer Graphics/Image Sources",
     "Computer Graphics/Image Sources/Concave Identification.png",
     "Computer Graphics/Object Geometry.md",
@@ -185,25 +202,22 @@
     "Untitled.md",
     "Computer Graphics.md",
     "Computer Graphics",
-    "Hough/Probabilistic Hough Transform.md",
-    "Hough/Standard Hough Transform.md",
-    "Hough/Use of the Hough  Transformation To  Detect Lines and  Curves in Pictures.md",
+    "Detection/Hough/Probabilistic Hough Transform.md",
+    "Detection/Hough/Standard Hough Transform.md",
+    "Detection/Hough/Use of the Hough  Transformation To  Detect Lines and  Curves in Pictures.md",
     "[Probabilistic.md",
     "How to Use Obsidian.md",
-    "Hough/Hough transforms.md",
-    "Hough/Randomized Hough Transform.md",
-    "Hough/Untitled.md",
-    "Hough/1992 Hough.md",
-    "Hough",
+    "Detection/Hough/Hough transforms.md",
+    "Detection/Hough/Randomized Hough Transform.md",
+    "Detection/Hough/Untitled.md",
+    "Detection/Hough/1992 Hough.md",
+    "Detection/Hough",
     "Graphics Architectures.md",
     "Computer Vision.md",
     "rho.md",
-    "Detection/Detection.md",
     "canny.htm.md",
     "Detection",
     "Terms for CG.md",
-    "Ray Tracing.md",
-    "Raster-Scan Systems.md",
     "Untitled.canvas"
   ]
 }
